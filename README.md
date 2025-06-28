@@ -8,7 +8,7 @@ A Simple batch script that will clear the contents of the temp, %temp% , prefetc
 - A command prompt will open, perform the cleanup process, and pause so you can see the result.
 
 *Important Note*
-what you're doing is mostly safe and can help keep your system tidy-just be cautious not to delete files that are actively in use.
+: what you're doing is mostly safe and can help keep your system tidy-just be cautious not to delete files that are actively in use.
 
 Description:
 
