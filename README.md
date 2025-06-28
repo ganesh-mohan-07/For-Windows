@@ -3,7 +3,7 @@ A Simple batch script that will clear the contents of the temp, %temp% , prefetc
 
 #STEPS
 - Save the file { cleanup_and_clear.bat } file in your desktop.
-- Right click the file and select " Run as Administrator " (this ensures access to system folders like Prefetch).
+- Right click the file and select " Run as Administrator " (or double click the file).
 - This ensures access to system folders like Prefetch
 - A command prompt will open, perform the cleanup process, and pause so you can see the result.
 
